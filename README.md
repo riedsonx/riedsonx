@@ -7,7 +7,7 @@ Olá! Me chamo **Riedson Ribeiro**, sou natural de Pernambuco e apaixonado por r
 Além da atuação corporativa, sou um entusiasta do Python e do ecossistema de dados. Desenvolvo soluções que vão de ferramentas de criticidade de produção a sistemas de gestão para o meu empreendimento no setor esportivo, a **Pré-Jogo**. Meu foco é unir a eficiência da logística com a inovação da engenharia de software.
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/riedson-ribeiro/">
+    <a href="https://www.linkedin.com/in/riedsonx/">
         <img 
             alt="LinkedIn" 
             title="Conecte-se comigo" 
