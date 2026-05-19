@@ -2,7 +2,7 @@
 
 **`Software Engineer & Logistics Analyst`**
 
-Olá! Me chamo **Riedson Ribeiro**, sou natural de Pernambuco e apaixonado por resolver problemas complexos através da tecnologia. Atualmente, sou graduando em **Engenharia de Software pela UNINTER** (conclusão em 2026) e atuo profissionalmente na **Stellantis** como Facilitador de Time Logístico II, onde aplico tecnologia para otimizar processos industriais.
+Olá! Me chamo **Riedson Ribeiro**, sou natural de Pernambuco e apaixonado por resolver problemas complexos através da tecnologia. Atualmente, sou graduando em **Engenharia de Software pela UNINTER** (conclusão em 2026) e atuo profissionalmente na **Stellantis** como Analista Pleno de Planejamento e Controle de Produção, onde aplico tecnologia para otimizar processos industriais.
 
 Além da atuação corporativa, sou um entusiasta do Python e do ecossistema de dados. Desenvolvo soluções que vão de ferramentas de criticidade de produção a sistemas de gestão para o meu empreendimento no setor esportivo, a **Pré-Jogo**. Meu foco é unir a eficiência da logística com a inovação da engenharia de software.
 
